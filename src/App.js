@@ -23,7 +23,7 @@ return(
 <li><a href='/signup' style={{position: 'absolute', right: 20}}>SignUp</a></li></ul>
 <div className="tc bg-green ma0 pa4 min-vh-100">
    <Search details={initialDetails}/>
-</div><Photos/>
+</div>
 </div>
 )
 };

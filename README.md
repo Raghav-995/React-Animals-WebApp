@@ -1,3 +1,4 @@
+![Screenshot (66)](https://github.com/Raghav-995/React-Animals-WebApp/assets/139675343/4a98fec6-36c6-4c57-8861-b8989b761858)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

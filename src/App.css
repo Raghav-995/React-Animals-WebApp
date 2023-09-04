@@ -1,0 +1,136 @@
+
+
+li{
+display: inline;
+float:left;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 8px;
+  overflow: hidden;
+  background-color:green;
+}
+ a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+ font-size: 20px;
+}
+.f2{
+display:block;
+position: absolute;
+
+}
+body{
+background-color:#228B22;
+}
+.blo{
+background:white;
+ padding:40px;
+height: 60%;
+  width: 90%;
+}
+.b1{
+padding:50px;
+}
+.blo p{
+padding-left:50px;
+
+ text-indent: 70px;
+}
+
+.blo img{
+  border-radius: 40%;
+ width: 150px;
+}.blo centered1 {
+  position: absolute;
+  transform: translate(-50%, -50%); 
+left:10%;
+}
+
+/*.centered2 {
+  position: absolute;
+  right:10%;
+ padding-top: 120px;
+  transform: translate(-50%, -50%);
+text-align:center;
+  */
+
+.blo h1{
+color:Green;
+text-shadow:2px 2px;
+text-align:center;
+}
+.right{
+align-items: center
+}
+.dropdown .bu {
+  font-size: 20px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.ul:hover, .dropdown:hover .bu {
+  background-color: none;
+}
+.dropdown .bu1 {
+  font-size: 20px;  
+  border: none;
+  outline: none;
+  color: black;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+.ul:hover, .dropdown:hover .bu1{
+  background-color: none;
+}
+.dropdown-content1 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.faq{
+position:absolute;
+width:50%;left:20%;padding:100px;
+}
+.garamond{
+padding:10px;
+}
